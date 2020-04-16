@@ -1,6 +1,6 @@
 	有时候需要做个PPT需要一些视频素材，或者从某些网站观看一些无网页广告的视频，然而这些视频本身嵌入到网页中，为了方便从网页中导出视频，做了一个下载工具。首先上图展示效果：
   
-	 ![show](https://raw.githubusercontent.com/ljc2266/JCVideoDown/master/show.png)
+![Image text](https://raw.githubusercontent.com/ljc2266/JCVideoDown/master/show.png)
    
 这里对里面使用的知识点进行说明：
 1.	使用CHttpConnection相关http操作的方式进行原始网页的代码下载并初步解析。
